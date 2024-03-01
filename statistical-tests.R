@@ -1,4 +1,5 @@
-# statistical tests 26.2.2024
+# statistical tests 
+# 26. helmikuu 2024
 # myy = populaatiokeskiarvo, x_viiva = otoskeskiarvo
 
 # lower.tail TRUE laskee vasemman hännän todennäköisyyden

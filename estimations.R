@@ -1,5 +1,5 @@
 # estimations
-# 13.2.2024
+# 13. helmikuu 2024
 
 # Terminologiasta lyhyesti: 
 # Keskivirhe(SE) on keskihajonta(sd) / sqrt(otoskoko)

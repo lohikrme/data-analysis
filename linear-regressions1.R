@@ -1,5 +1,5 @@
 # linear-regressions1
-# 29.2.2024
+# 1. maaliskuu 2024
 
 options(digits=10)
 

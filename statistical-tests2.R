@@ -1,5 +1,5 @@
 # more statistical tests 
-# 27.2.2024
+# 27. helmikuu 2024
 
 # Johdatusta riippuvaan t-testiin,
 # Chi squared yhteensopivuustestiin sekä
